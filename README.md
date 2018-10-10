@@ -24,3 +24,6 @@ To build this project execute the following command:
 ```bash
   mvn clean install
 ```
+
+## Note
+You are expected to implement your own encryption for use within the queue utility. A 'TODO' has been where this implementation is required.
